@@ -2,7 +2,10 @@
 
 ### Tecnóloga em Cibersegurança | Red & Blue Team | CSIRT & Forense Digital
 
-Bem-vinda(o) ao meu GitHub! Sou apaixonada por desvendar complexidades de sistemas, proteger infraestruturas e investigar e responder a incidentes de segurança.
+Bem-vinda(o) ao meu GitHub! 
+Sou apaixonada por desvendar complexidades de sistemas, proteger infraestruturas, investigar e responder a incidentes de segurança.
+
+---
 
 ## 👩🏻‍💻 Sobre Mim
 
@@ -12,9 +15,9 @@ Bem-vinda(o) ao meu GitHub! Sou apaixonada por desvendar complexidades de sistem
 - 💻 Desenvolvedora do **Argos**, um analisador de logs forenses em desenvolvimento contínuo, focado em otimizar investigações digitais.
 - 📍 Baseada em Brasília, DF.
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-Aqui estão as principais tecnologias, ambientes e ferramentas que utilizo no meu dia a dia de estudos e projetos:
+## 🛠️ Tecnologias e Ferramentas
 
 **Cibersegurança, CSIRT & Forense:**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -31,6 +34,7 @@ Aqui estão as principais tecnologias, ambientes e ferramentas que utilizo no me
 **Linguagens & Desenvolvimento:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
 
 ## 📊 Minhas Estatísticas
 
@@ -38,6 +42,8 @@ Aqui estão as principais tecnologias, ambientes e ferramentas que utilizo no me
   <img src="https://github-readme-stats.vercel.app/api?username=nathi-gs&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub de Nathalia" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathi-gs&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
 </div>
+
+---
 
 ## 📬 Como me encontrar
 
