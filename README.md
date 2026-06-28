@@ -5,7 +5,6 @@
 Bem-vinda(o) ao meu GitHub! 
 Sou apaixonada por desvendar complexidades de sistemas, proteger infraestruturas, investigar e responder a incidentes de segurança.
 
----
 
 ## 👩🏻‍💻 Sobre Mim
 
@@ -15,7 +14,6 @@ Sou apaixonada por desvendar complexidades de sistemas, proteger infraestruturas
 - 💻 Desenvolvedora do **Argos**, um analisador de logs forenses em desenvolvimento contínuo, focado em otimizar investigações digitais.
 - 📍 Baseada em Brasília, DF.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -34,7 +32,6 @@ Sou apaixonada por desvendar complexidades de sistemas, proteger infraestruturas
 **Linguagens & Desenvolvimento:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
 
 ## 📊 Minhas Estatísticas
 
@@ -43,7 +40,6 @@ Sou apaixonada por desvendar complexidades de sistemas, proteger infraestruturas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathi-gs&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" />
 </div>
 
----
 
 ## 📬 Como me encontrar
 
